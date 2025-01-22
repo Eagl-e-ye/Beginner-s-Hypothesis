@@ -11,4 +11,3 @@ Notebooks:
 6.	Summary: this notebook is for the model which is trained to detect the values of summary columns. The X_values and Y_values were separated to train the model with the video features extracted before. The X and Y models are trained separately with random forest and gave little error of 5-6 on seen data. 
 7.	Final arrangement- this notebook is the final notebook which is used to load all the models, label encodes and the test videos. The predictions are decoded with the help loaded encodes. The final csv file is created at the end after predicting all the values of all columns.
 
-# Please consider the late submission file on Kaggle. I was unable to submit the file since the limit of 5 files were over and I had the best accuracy on that file.
