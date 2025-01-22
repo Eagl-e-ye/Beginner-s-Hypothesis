@@ -1,5 +1,8 @@
 Beginner’s Hypothesis
+
 ~Indranil Singha 24112054
+
+
 This is the manual to understand the code properly.
 The code I have provided is of the best model of the many models I have made and is giving 0.94 points in the leaderboard but due to late submission the rank is not considered. I have divided the project into 7 jupyter notebooks of which 5 are for different models to predict 5 different columns of the csv to understand and execute the work properly.
 Notebooks:
